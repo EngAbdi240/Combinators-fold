@@ -1,0 +1,22 @@
+
+
+.blog-post .author{
+
+    font-weight: bold;
+}
+
+.blog-post > .title{
+
+    color: blue;
+}
+
+.blog-post .title + .description{
+
+    font-style: italic;
+}
+
+.blog-post .meta ~ .content{
+
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
