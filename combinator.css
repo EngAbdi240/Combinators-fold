@@ -3,6 +3,8 @@
 .blog-post .author{
 
     font-weight: bold;
+    font-size: 1rem;
+    color: blue;
 }
 
 .blog-post > .title{
