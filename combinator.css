@@ -23,3 +23,20 @@
     padding-top: 10px;
     background-color: aqua;
 }
+
+.footer{
+
+    background-color: antiquewhite;
+}
+
+.footer ul{
+
+    display: flex;
+    gap: 40px;
+}
+
+ul li{
+
+    list-style: none;
+    font-size: 2em;
+}
